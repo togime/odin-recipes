@@ -124,7 +124,6 @@ h1 {
 .steps li {
     counter-increment: step-counter;
     display: flex;
-    align-items: flex-start;
     margin-bottom: 12px;
 }
 
@@ -140,12 +139,14 @@ h1 {
 }
 
 input[type="checkbox"]{
-    vertical-align: middle;
-    width: 20px;
-    height: 20px;
+    accent-color: #72cfd4;
+    align-self: center;
+    width: 10px;
+    height: 10px;
     margin: 0 6px;
 }
 
 input[type="checkbox"]:checked ~ label {
     text-decoration: line-through;
 }
+
