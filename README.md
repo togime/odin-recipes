@@ -14,4 +14,8 @@
 >It serves the purpose of practicing the CSS knowledge I've adquired so far into the course.
 
 ### After completing the task:
-- coming soon...
+- I have gotten a feel for how dastrically the html files can change according to what you want to add or do with their content.
+
+- For the most part I got to experiment a lot with colors, but also had a lot of fun figuring out how to manipulate lists and images to look different ways and adding checkboxes.
+
+- In the end I gained a better understanding of CSS selectors and how to use them to avoid repetion, how to use the **device** property to structure different elements and got better at searching for answers when met with a wall.
